@@ -1,0 +1,8 @@
+# SQLite3 databases
+*.sqlite3
+
+# Python compiled files
+*.pyc
+
+# Python chaced files
+**/__pychace__/**
